@@ -47,20 +47,22 @@ It will use cameras, not other sensors (Adafruit TOF sensor) that previous teams
 
 ### Front
 
+<img width="187" alt="image" src="https://github.com/UCSD-ECEMAE-148/spring-2023-final-project-team-14/assets/20979077/ec0e9d3f-6783-446c-a0e0-2db0734580a4">
 
 ### Side
+
+<img width="296" alt="image" src="https://github.com/UCSD-ECEMAE-148/spring-2023-final-project-team-14/assets/20979077/32cec242-eb7c-4d90-a908-c374f82b98e2">
 
 
 ### Bird's Eye
 
-
-### Back
+<img width="207" alt="image" src="https://github.com/UCSD-ECEMAE-148/spring-2023-final-project-team-14/assets/20979077/c156e517-e69a-4517-8d1a-846bcc21be54">
 
 
 ### Schematic
 
 
-###Software and Hardware List
+### Software and Hardware List
 
 - Hardware
   - Jetson Nano
@@ -111,4 +113,4 @@ It will use cameras, not other sensors (Adafruit TOF sensor) that previous teams
 
 
 ## Acknowledgements
-- Huge shoutout to our TAs Kishore Nukala and Moises Lopez! We also want to thank the professor, Dr. Jack Silberman!
+- Huge shoutout to our TAs Kishore Nukala and Moises Lopez! We also want to thank the professor, Dr. Jack Silberman
