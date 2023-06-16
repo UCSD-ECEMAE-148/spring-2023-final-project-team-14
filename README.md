@@ -118,7 +118,7 @@ https://youtube.com/shorts/hF-dNfn05qA?feature=share
 
 ## Earlier in the Quarter: Autonomous Laps
 
-- DonkeyCar, OpenCV, and GPS (YouTube Playlist): [youtube link]
+- DonkeyCar, OpenCV, and GPS (YouTube Playlist): https://youtube.com/playlist?list=PLk6ssglDhUEqm6P5aKJ0jK8jdhAzEwMPw
 
 
 
