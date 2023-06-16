@@ -4,6 +4,7 @@
 
 ## The Team: Self-Parking Car (Rocky McQueen)
 
+<img width="639" alt="image" src="https://github.com/UCSD-ECEMAE-148/spring-2023-final-project-team-14/assets/20979077/9c9aeb30-52e7-4e99-9f56-ff2aadb0dcfd">
 
 
 - Manoel Aguirre Lara (ME)
