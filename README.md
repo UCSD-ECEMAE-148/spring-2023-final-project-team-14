@@ -102,6 +102,11 @@ https://youtube.com/shorts/hF-dNfn05qA?feature=share
 
   - On this second image, red lines representing the detecting hough lines are present
 
+### Gantt Chart
+
+<img width="1237" alt="image" src="https://github.com/UCSD-ECEMAE-148/spring-2023-final-project-team-14/assets/20979077/0bfe83cc-6a4c-4122-a594-7877743cddfb">
+
+
 ### Presentation
 - Linked in this repository, at the root, in pdf form.
 
