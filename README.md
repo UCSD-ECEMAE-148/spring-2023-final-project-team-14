@@ -102,20 +102,20 @@ https://youtube.com/shorts/hF-dNfn05qA?feature=share
 
   - On this second image, red lines representing the detecting hough lines are present
 
+### Presentation
+- Linked in this repository, at the root, in pdf form.
 
 ## For the Future
 - If you have a similar project, we recommend YOLO over template matching! Template matching was slow and had many false positives on images pulled from the OAKD live feed
 
 
-### Presentation
-- Linked in this repository, at the root, in pdf form.
 
+## Earlier in the Quarter: Autonomous Laps
 
-## Autonomous Laps
-
-- DonkeyCar, OpenCV, and GPS: [youtube link]
+- DonkeyCar, OpenCV, and GPS (YouTube Playlist): [youtube link]
 
 
 
 ## Acknowledgements
 - Huge shoutout to our TAs Kishore Nukala and Moises Lopez! We also want to thank the professor, Dr. Jack Silberman
+- We also want to give credit to our former teammate, Shravan Suresh, for his contributions to our team
