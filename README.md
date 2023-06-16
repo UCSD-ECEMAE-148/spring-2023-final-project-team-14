@@ -47,16 +47,16 @@ https://youtube.com/shorts/hF-dNfn05qA?feature=share
 ### Images
 
 
-### Front
+#### Front
 
 <img width="187" alt="image" src="https://github.com/UCSD-ECEMAE-148/spring-2023-final-project-team-14/assets/20979077/ec0e9d3f-6783-446c-a0e0-2db0734580a4">
 
-### Side
+#### Side
 
 <img width="296" alt="image" src="https://github.com/UCSD-ECEMAE-148/spring-2023-final-project-team-14/assets/20979077/32cec242-eb7c-4d90-a908-c374f82b98e2">
 
 
-### Bird's Eye
+#### Bird's Eye
 
 <img width="207" alt="image" src="https://github.com/UCSD-ECEMAE-148/spring-2023-final-project-team-14/assets/20979077/c156e517-e69a-4517-8d1a-846bcc21be54">
 
