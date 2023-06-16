@@ -118,7 +118,14 @@ https://youtube.com/shorts/hF-dNfn05qA?feature=share
 
 ## Earlier in the Quarter: Autonomous Laps
 
-- DonkeyCar, OpenCV, and GPS (YouTube Playlist): https://youtube.com/playlist?list=PLk6ssglDhUEqm6P5aKJ0jK8jdhAzEwMPw
+- [DonkeyCar](https://www.youtube.com/watch?v=oXNtgbsRxQM)
+- [GPS](https://www.youtube.com/watch?v=saanms4O9vY)
+- OpenCV: 
+  - [Initial lane following](https://www.youtube.com/watch?v=dShIcG8oyFw)
+  - [Inner Laps](https://youtu.be/LYB8245VyeU)
+  - [Outer Laps](https://youtu.be/tvJIlznR73o)
+    
+- [Rocky McQueen](https://youtu.be/oQgJlYD2pFw)
 
 
 
