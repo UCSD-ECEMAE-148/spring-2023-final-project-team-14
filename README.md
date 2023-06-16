@@ -17,6 +17,8 @@ The car will park itself in a free handicap parking spot with lane detection and
 
 It will use cameras, not other sensors (Adafruit TOF sensor) that previous teams have used.
 
+### Demo Video!
+https://youtube.com/shorts/hF-dNfn05qA?feature=share
 
 ### What We Promised
 
@@ -93,10 +95,10 @@ It will use cameras, not other sensors (Adafruit TOF sensor) that previous teams
 - car_detection.py demonstrates the technologies we are using: HoughLines, Template Matching, and PyVESC
   - It pulls a frame, using .cvFrame(), from the pipelined live feed of the OAK-D
   - It will generate a live image, with a blue rectangle around a template match
-  - <img width="506" alt="image" src="https://github.com/UCSD-ECEMAE-148/spring-2023-final-project-team-14/assets/20979077/f4be20a2-abbd-4792-aa25-2397b8fe4eb0">
+    <img width="506" alt="image" src="https://github.com/UCSD-ECEMAE-148/spring-2023-final-project-team-14/assets/20979077/f4be20a2-abbd-4792-aa25-2397b8fe4eb0">
 
   - It will generate another live image, a black and white version generated using cv.canny() and focusing on edges
-  - <img width="432" alt="image" src="https://github.com/UCSD-ECEMAE-148/spring-2023-final-project-team-14/assets/20979077/551d2ef2-5774-4813-bad6-92bbd271716e">
+    <img width="432" alt="image" src="https://github.com/UCSD-ECEMAE-148/spring-2023-final-project-team-14/assets/20979077/551d2ef2-5774-4813-bad6-92bbd271716e">
 
   - On this second image, red lines representing the detecting hough lines are present
 
