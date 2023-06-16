@@ -42,7 +42,7 @@ It will use cameras, not other sensors (Adafruit TOF sensor) that previous teams
 ## Our Robot
 
 
-### Bird's Eye
+### Images
 
 
 ### Front
@@ -60,6 +60,8 @@ It will use cameras, not other sensors (Adafruit TOF sensor) that previous teams
 
 
 ### Schematic
+
+<img width="552" alt="image" src="https://github.com/UCSD-ECEMAE-148/spring-2023-final-project-team-14/assets/20979077/c7afd0c6-ca3d-4ff5-b0c7-85958b561f81">
 
 
 ### Software and Hardware List
@@ -101,6 +103,7 @@ It will use cameras, not other sensors (Adafruit TOF sensor) that previous teams
 
 ### Gantt Chart
 
+
 ### Presentation
 - Linked in this repository, at the root, in pdf form.
 
@@ -108,7 +111,6 @@ It will use cameras, not other sensors (Adafruit TOF sensor) that previous teams
 ## Autonomous Laps
 
 - DonkeyCar, OpenCV, and GPS: [youtube link]
-
 
 
 
